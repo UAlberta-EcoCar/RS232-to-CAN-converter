@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.6.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -6514,8 +6514,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="LED3" library="adafruit" deviceset="LED" device="CHIPLED_0805"/>
 <part name="R11" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="1k"/>
 <part name="R12" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="10k"/>
-<part name="R13" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="100"/>
-<part name="R14" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="100"/>
+<part name="R13" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="62"/>
+<part name="R14" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="62"/>
 <part name="U$9" library="USBLC6-2SC6" deviceset="USBLC6-2SC6" device=""/>
 <part name="F13" library="polyfuse" deviceset="POLYFUSE" device=""/>
 <part name="F14" library="polyfuse" deviceset="POLYFUSE" device=""/>
@@ -6540,8 +6540,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="GND15" library="E-P-008-R1.2" deviceset="GND" device=""/>
 <part name="GND16" library="E-P-008-R1.2" deviceset="GND" device=""/>
 <part name="GND17" library="E-P-008-R1.2" deviceset="GND" device=""/>
-<part name="R15" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="1k"/>
-<part name="R16" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="1k"/>
+<part name="R15" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="62"/>
+<part name="R16" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603-RES" value="62"/>
 <part name="C18" library="adafruit" deviceset="C-US" device="C0603K" value="4700pf"/>
 </parts>
 <sheets>
